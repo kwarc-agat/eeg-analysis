@@ -33,8 +33,12 @@ Experiments with various methods of classifying EEG signals.
 - Jupyter Notebook
 
 ## Demo
-
-<i>in preparation</i>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_ExperimentsConducted1.jpg?raw=true" alt="Research_ExperimentsConducted1.jpg" width="600"/>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_ExperimentsConducted2.jpg?raw=true" alt="Research_ExperimentsConducted2.jpg" width="600"/>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_Results_TraditionalClassifiers1.png?raw=true" alt="Research_Results_TraditionalClassifiers1.png" width="400"/>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_Results_TraditionalClassifiers2.png?raw=true" alt="Research_Results_TraditionalClassifiers2.png" width="400"/>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_Results_DeepLearning1.png?raw=true" alt="Research_Results_DeepLearning1.png" width="400"/>
+<img src="https://github.com/kwarc-agat/eeg-analysis/blob/main/img/Research_Results_DeepLearning2.png?raw=true" alt="Research_Results_DeepLearning2.png" width="400"/>
 
 ## Getting started
 
